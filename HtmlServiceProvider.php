@@ -57,7 +57,7 @@ class HtmlServiceProvider extends ServiceProvider {
 	/**
 	 * Get the services provided by the provider.
 	 *
-	 * @return array
+	 * @return array which containes html and form
 	 */
 	public function provides()
 	{
